@@ -13,4 +13,4 @@ Sample output:
     John D.
 
 
-Thanks to @binarydud for his assistance.
+Thanks to @binarydud for his [assistance](https://gist.github.com/briandailey/ea12aa05deaaf7981cf2/revisions).
